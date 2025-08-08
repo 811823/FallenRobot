@@ -4,7 +4,6 @@
 FallenRobot 是一个基于 Python 的多功能 Telegram 群组管理机器人，支持丰富的管理、娱乐和工具功能，适合自动化群组管理和互动。
 
 - [English README](README.en.md)
-- [中文说明](README.zh.md)
 
 ## 主要功能
 - 群组管理（踢人、禁言、黑名单、警告等）
@@ -72,7 +71,6 @@ A: 在 `FallenRobot/modules/` 目录下新增 Python 文件，参考现有模块
 
 ## 多语言
 - [English README](README.en.md)
-- [中文说明](README.zh.md)
 
 ---
 如有更多问题，欢迎在 Issue 区留言或加入支持群交流。
